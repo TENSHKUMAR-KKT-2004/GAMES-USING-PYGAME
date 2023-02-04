@@ -178,16 +178,6 @@ def main():
                 yellow_health -= 1  
                 BULLET_HIT.play()
 
-        # check the winner and show the winner on the screen
-        winner_text = ""
-        if red_health <= 0:
-            winner_text = "YELLOW SHIP WIN!"
-        if yellow_health <= 0:
-            winner_text = "RED SHIP WIN!" 
-        if winner_text != "":
-            draw_winner(winner_text) 
-            break
-
         # getting the pressed keys and move the ship based on the key pressed
         keys_pressed = pygame.key.get_pressed()
         # send the key pressed as dict and ship boxes (rectangle)
@@ -200,6 +190,16 @@ def main():
         # draw the game on the screen
         draw_window(yellow,red,yellow_bullets,red_bullets,red_health,yellow_health)
 
+        # check the winner and show the winner on the screen
+        winner_text = ""
+        if red_health <= 0:
+            winner_text = "YELLOW SHIP WIN!"
+        if yellow_health <= 0:
+            winner_text = "RED SHIP WIN!" 
+        if winner_text != "":
+            draw_winner(winner_text) 
+            break
+            
     main()
     
 # make sure this file will run directly or not and call the main function   
