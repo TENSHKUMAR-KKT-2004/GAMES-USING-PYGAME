@@ -40,15 +40,15 @@
 ## Yellow Ship Win! :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105140296/216779164-22597707-3ac2-4558-8827-9790cf43f43a.jpg" alt="img"/>
+  <img src="https://user-images.githubusercontent.com/105140296/216780766-87fde345-39c5-4ae5-bf8b-f8e1368b3907.jpg" alt="img"/>
 </p>
 
 ## Red Ship Win! :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105140296/216779862-e6f8f8eb-0664-49f2-8ee7-116a68d2f64a.jpg" alt="img"/>
+  <img src="https://user-images.githubusercontent.com/105140296/216780798-a557e247-1fa2-42bd-83fc-3bdcbce3dcc7.jpg" alt="img"/>
 </p>
 
 
 
-                                          -------------------- Enjoy !!! --------------------
+                                    -------------------- Enjoy !!! --------------------
