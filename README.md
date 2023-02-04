@@ -7,21 +7,21 @@
 </p>
 
 ## The Movement Keys :
-     <h4>Yellow Ship :</h4>
+     Yellow Ship :
         - W key - UP
         - A key - LEFT
         - S key - DOWN
         - D key - RIGHT
-     <h4>Red Ship :</h4>
+     Red Ship :
         - UP Arrow key - UP
         - LEFT Arrow key - LEFT
         - DOWN Arrow key - DOWN
         - RIGHT Aroow key - RIGHT
        
 ## The Bullet Fire keys :
-     <h4>Yellow Ship :</h4>
+     Yellow Ship :
         - LCTRL - to fire the bullets 
-     <h4>Red Ship :</h4>
+     Red Ship :
         - RCTRL - to fire the bullets
        
  
@@ -46,8 +46,9 @@
 ## Red Ship Win! :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/105140296/216779221-3ba5299f-20e5-4cbe-b9ba-3fa4710e7137.jpg" alt="img"/>
+  <img src="https://user-images.githubusercontent.com/105140296/216779862-e6f8f8eb-0664-49f2-8ee7-116a68d2f64a.jpg" alt="img"/>
 </p>
 
 
-                                        -------------------- Enjoy !!! --------------------
+
+                                          -------------------- Enjoy !!! --------------------
