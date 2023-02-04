@@ -156,7 +156,7 @@ def main():
             # event handling for close the game  
             if event.type == pygame.QUIT:
                 run = False
-                pygame.quit()
+                exit()
             # when the shoot button was triggerd we need to create the bullets and make sure the MAX no of bullets is 3 when they passed on the screen  
             if event.type == pygame.KEYDOWN:
                 # for yellow ship
