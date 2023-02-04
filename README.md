@@ -1,37 +1,37 @@
 # GAMES-USING-PYGAME
 
-##Game Interface :
+## Game Interface :
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105140296/216778439-dcf317ac-31f9-4b2b-a6c6-c7a1e22b0273.jpg" alt="img"/>
 </p>
 
 ## The Movement Keys :
-     - Yellow Ship :
+     <h4>Yellow Ship :</h4>
         - W key - UP
         - A key - LEFT
         - S key - DOWN
         - D key - RIGHT
-     - Red Ship :
+     <h4>Red Ship :</h4>
         - UP Arrow key - UP
         - LEFT Arrow key - LEFT
         - DOWN Arrow key - DOWN
         - RIGHT Aroow key - RIGHT
        
-## The Fire keys :
-     - Yellow Ship :
+## The Bullet Fire keys :
+     <h4>Yellow Ship :</h4>
         - LCTRL - to fire the bullets 
-     - Red Ship :
+     <h4>Red Ship :</h4>
         - RCTRL - to fire the bullets
        
  
-## Bullet fire from Yellow Ship :
+## Bullet fired from Yellow Ship :
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105140296/216779044-56926308-6224-489f-9e43-f7c4330514b6.jpg" alt="img"/>
 </p>
 
-## Bullets fire from Red Ship :
+## Bullet fired from Red Ship :
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/105140296/216779105-9aec1d7d-17f7-40d5-9572-72ca9460ed07.jpg" alt="img"/>
